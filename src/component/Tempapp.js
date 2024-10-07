@@ -25,8 +25,9 @@ import "./css/style.css"
                         type="search"
                         value={search}
                         className="inputFeild"
-                        onChange={ (event) => { setSearch(event.target.value) } } />
+                        onChange={ (event) => { setSearch(event.target.value) } }  />
                     </div>
+                    
              
             {!city ? (
                 <p className="errorMsg"> No Data Found </p>
