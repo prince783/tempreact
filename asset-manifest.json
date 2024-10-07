@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/(repo%20name)/static/css/main.309b8f8a.css",
-    "main.js": "/(repo%20name)/static/js/main.dff9667a.js",
-    "index.html": "/(repo%20name)/index.html",
-    "main.309b8f8a.css.map": "/(repo%20name)/static/css/main.309b8f8a.css.map",
-    "main.dff9667a.js.map": "/(repo%20name)/static/js/main.dff9667a.js.map"
+    "main.css": "/weather-forcasting/static/css/main.309b8f8a.css",
+    "main.js": "/weather-forcasting/static/js/main.dff9667a.js",
+    "index.html": "/weather-forcasting/index.html",
+    "main.309b8f8a.css.map": "/weather-forcasting/static/css/main.309b8f8a.css.map",
+    "main.dff9667a.js.map": "/weather-forcasting/static/js/main.dff9667a.js.map"
   },
   "entrypoints": [
     "static/css/main.309b8f8a.css",
